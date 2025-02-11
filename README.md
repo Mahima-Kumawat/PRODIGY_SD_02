@@ -1,1 +1,2 @@
 # PRODIGY_SD_02
+This program generates a random number and challenges the user to guess it. The user is prompted to input a guess, and the program compares it to the generated number, providing feedback on whether the guess is too high, too low, or correct. The game continues until the user correctly guesses the number, at which point the program displays the total number of attempts taken to win.  
